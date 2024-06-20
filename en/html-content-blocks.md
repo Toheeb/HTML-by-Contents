@@ -1,8 +1,7 @@
 ---
 title: The 14 Content Blocks of HTML
 canonical: https://www.toheeb.com/en/html-content-blocks/
-book: hc
-chapter: 7
+book-hc: 7
 ---
 
 

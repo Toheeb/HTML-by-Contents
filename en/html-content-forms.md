@@ -1,8 +1,7 @@
 ---
 title: The 24 Content Forms of HTML
 canonical: https://www.toheeb.com/en/html-content-forms/
-book: hc
-chapter: 10
+book-hc: 10
 ---
 
 <header>

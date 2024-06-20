@@ -1,8 +1,7 @@
 ---
 title: The 33 Content Metas of HTML
 canonical: https://www.toheeb.com/en/html-content-metas/
-book: hc
-chapter: 3
+book-hc: 3
 ---
 
 

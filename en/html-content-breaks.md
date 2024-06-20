@@ -1,8 +1,7 @@
 ---
 title: The 3 Content Breaks of HTML
 canonical: https://www.toheeb.com/en/html-content-breaks/
-book: hc
-chapter: 8
+book-hc: 8
 ---
 
 

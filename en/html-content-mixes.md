@@ -1,8 +1,7 @@
 ---
 title: The 13 Content Mixes of HTML
 canonical: https://www.toheeb.com/en/html-content-mixes/
-book: hc
-chapter: 6
+book-hc: 6
 ---
 
 

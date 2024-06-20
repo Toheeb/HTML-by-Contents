@@ -1,8 +1,7 @@
 ---
 title: The 132 Content Attributes of HTML
 canonical: https://www.toheeb.com/en/html-content-attributes/
-book: hc
-chapter: 12
+book-hc: 12
 ---
 
 <header>

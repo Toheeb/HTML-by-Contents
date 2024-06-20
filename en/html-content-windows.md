@@ -1,8 +1,7 @@
 ---
 title: The 2 Content Windows of HTML
 canonical: https://www.toheeb.com/en/html-content-windows/
-book: hc
-chapter: 4
+book-hc: 4
 ---
 
 

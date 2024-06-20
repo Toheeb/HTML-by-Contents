@@ -1,8 +1,7 @@
 ---
 title: The 29 Content Connotations of HTML
 canonical: https://www.toheeb.com/en/html-content-connotations/
-book: hc
-chapter: 11
+book-hc: 11
 ---
 
 

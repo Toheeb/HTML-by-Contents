@@ -1,8 +1,7 @@
 ---
 title: 2 Content Guides for writing HTML
 canonical: https://www.toheeb.com/en/html-content-guides/
-book: hc
-chapter: 13
+book-hc: 13
 ---
 
 

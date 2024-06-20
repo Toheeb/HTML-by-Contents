@@ -1,8 +1,7 @@
 ---
 title: The 9 Content Objects of HTML
 canonical: https://www.toheeb.com/en/html-content-objects/
-book: hc
-chapter: 9
+book-hc: 9
 ---
 
 

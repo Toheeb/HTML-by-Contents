@@ -1,8 +1,7 @@
 ---
 title: The Content Root of HTML
 canonical: https://www.toheeb.com/en/html-content-root/
-book: hc
-chapter: 2
+book-hc: 2
 ---
 
 

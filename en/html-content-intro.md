@@ -1,8 +1,7 @@
 ---
 title: Introduction to HTML by Contents
 canonical: https://www.toheeb.com/en/html-content-intro/
-book: hc
-chapter: 1
+book-hc: 1
 ---
 
 # Introduction

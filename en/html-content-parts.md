@@ -1,8 +1,7 @@
 ---
 title: The 8 Content Parts of HTML
 canonical: https://www.toheeb.com/en/html-content-parts/
-book: hc
-chapter: 5
+book-hc: 5
 ---
 
 
