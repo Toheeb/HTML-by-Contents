@@ -54,6 +54,3 @@ Page 13 recommends a growing number of [Content Guides](/en/html-content-guides)
 
 
 
-
-
-This learning resource explains HTML by contents like subheading. 
