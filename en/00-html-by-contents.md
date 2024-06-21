@@ -1,5 +1,5 @@
 ---
-title: The HTML by Contents Book
+title: Cover
 canonical: https://www.toheeb.com/en/html-by-contents/
 book-hc: 0
 ---
