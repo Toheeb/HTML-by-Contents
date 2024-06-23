@@ -21,6 +21,6 @@ PS: I wish 200 persons will each [buy me a $5 coffee at ko-fi.](https://ko-fi.co
 
 5. use the tool to achieve my goal of [reforming the web](https://www.toheeb.com/en/portfolio/)
 
-Thank you 🙏
+Thank you! I'd be very happy if you can help spread the word to share some love. 🙏
 
 TO a self-sufficient web 🚀
